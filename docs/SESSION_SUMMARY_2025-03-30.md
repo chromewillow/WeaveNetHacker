@@ -5,7 +5,7 @@
 **Key Activities & Outcomes:**
 
 1.  **Context Preservation:**
-    *   Discussed how to retain insights from the Windows XP simulator analysis.
+    *   Discussed how to retain insights from the Windows XP simulator analysis. (https://websim.ai/@BookwormKevin/windows-xp-simulator)
     *   Created a Cascade Memory (`aecf7b51-d888-4296-af3a-415bc4313e7a`) detailing the planned UI implementation strategy (Phaser Containers, WindowManager class).
     *   Added a summary of the UI strategy to `GAME_CONCEPT.md`.
     *   Refined the first prototyping task in `TASKLIST.md` to be more specific about the `WindowManager`.
