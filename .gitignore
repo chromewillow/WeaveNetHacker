@@ -17,8 +17,10 @@ build/
 .env*.local
 *.local
 
-# Logs
-logs
+# Logs - Keep important logs, ignore others
+logs/*
+!logs/important/
+!logs/errors/
 *.log
 npm-debug.log*
 yarn-debug.log*
