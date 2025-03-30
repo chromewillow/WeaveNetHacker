@@ -32,12 +32,16 @@ WeaveNetHacker_Dev/
 │   │   └── WindowManager.js  # Window management system
 │   └── main.js           # Entry point
 ├── public/               # Static assets
-├── docs/                 # Documentation
-│   ├── GAME_CONCEPT.md   # Game design document
-│   └── TASKLIST.md      # Development roadmap
-├── style.css            # Global styles
-├── index.html           # Entry HTML file
-└── vite.config.js       # Vite configuration
+├── logs/                 # Logging directory
+│   ├── important/        # Important logs (tracked)
+│   └── errors/          # Error logs (tracked)
+├── docs/                # Documentation
+│   ├── GAME_CONCEPT.md  # Game design document
+│   ├── TASKLIST.md      # Development roadmap
+│   └── SESSION_SUMMARY_2025-03-30.md  # Development session notes
+├── style.css           # Global styles
+├── index.html          # Entry HTML file
+└── vite.config.js      # Vite configuration
 ```
 
 ## Getting Started
